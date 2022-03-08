@@ -8,7 +8,7 @@ https://liptonapi.herokuapp.com/random
 
 Random output from list:
 
-"tak", "nie", "nie wiem", "klapouch", "bucik", "dzejus", "herbata", "suszi", "pizza", "morvo", "solindek"
+tak, nie, nie wiem, klapouch, bucik, dzejus, herbata, suszi, pizza, morvo, solindek.
 
 Example output:
 
