@@ -6,6 +6,10 @@ A very basic API made in Python using Flask
 
 https://liptonapi.herokuapp.com/random
 
+Random output from list:
+
+"tak", "nie", "nie wiem", "klapouch", "bucik", "dzejus", "herbata", "suszi", "pizza", "morvo", "solindek"
+
 Example output:
 
 - klapouch
