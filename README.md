@@ -1,5 +1,7 @@
 # LiptonAPI
 
+[![Hits](https://hits.deltapapa.io/github/Liptom328/liptonapi.svg)](https://hits.deltapapa.io)
+
 A very basic API made in Python using Flask
 
 # Random
