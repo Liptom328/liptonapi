@@ -2,7 +2,7 @@
 
 A very basic API made in Python using Flask
 
-#Random
+# Random
 
 https://liptonapi.herokuapp.com/random
 
@@ -11,7 +11,7 @@ Example output:
 - klapouch
 - solindek
 
-#Img
+# Image
 
 https://liptonapi.herokuapp.com/img
 
